@@ -1,0 +1,15 @@
+{
+  "title": "Učebnice medicíny pro záchranáře",
+  "description": "Výukový materiál přednemocniční neodkladné péče pro studenty záchranářství a pracovníky ZZS.",
+  "language": "cs",
+  "gitbook": ">=3.2.3",
+  "plugins": [],
+  "pluginsConfig": {},
+  "styles": {
+    "website": "styles/website.css"
+  },
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}
